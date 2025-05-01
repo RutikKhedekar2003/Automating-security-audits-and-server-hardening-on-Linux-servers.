@@ -55,7 +55,7 @@ sudo apt install -y net-tools procps sysstat gawk ufw iptables grub2 unattended-
 ### Clone the Repository
 
 ```bash
-git clone
+git clone https://github.com/RutikKhedekar2003/Automating-security-audits-and-server-hardening-on-Linux-servers..git
 cd security-audit
 ```
 
